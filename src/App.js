@@ -19,7 +19,7 @@ function App() {
   };
   
 
-   // function to calculate bmi
+   // function to calculate bmi WE USE THIS EQUATION
 
   // const calBmi = (w, h) =>
   // { return (w / (h * h)).toFixed(2);
